@@ -1,2 +1,2 @@
 # ReactJS
-Learning about ReactJS
+Kanban desenvolvido com ReactJS.
