@@ -1,2 +1,4 @@
-# ReactJS
-Kanban desenvolvido com ReactJS. Link do projeto [aqui](https://8mf9u9.csb.app/)
+# ReactJS e React Native
+Projetos pessoais para estudo. Até o momento:
+1- Kanban com ReactJS
+2- Tela de login simples com React Native
